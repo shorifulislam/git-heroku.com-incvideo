@@ -1,0 +1,15 @@
+{
+  "name": "OpenTokRTC",
+  "description": "INC RTC is a WebRTC that supports multi-party video chat, Audio/Video recording, mobile support between doctors or patients.",
+  "repository": "https://github.com/opentok/OpenTokRTC",
+  "logo": "https://injurycloud.com/content/corporate/img/logo.jpg",
+  "keywords": ["webrtc", "opentok", "video", "video chat", "multiparty", "INC", "InjuryCloud"],
+  "env": {
+    "TB_KEY": {
+      "description": "45127182"
+    },
+    "TB_SECRET": {
+      "description": "0af2e2a1049d207df2912cfd31c5e25d73d2e1d8"
+    }
+  }
+}

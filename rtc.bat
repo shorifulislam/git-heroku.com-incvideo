@@ -1,0 +1,1 @@
+START /b "runas /user:administrator" cmd /K "cd D:\GIT\OpenTokRTC\OpenTokRTC & node D:\GIT\OpenTokRTC\OpenTokRTC\app.js"

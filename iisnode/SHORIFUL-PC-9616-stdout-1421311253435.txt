@@ -1,0 +1,2 @@
+application now served on port \\.\pipe\4db27b88-e964-49b6-bfcc-0f9228dc46e5 in development environment
+/app.js
